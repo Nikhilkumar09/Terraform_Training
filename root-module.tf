@@ -6,3 +6,5 @@ module "PRVMODULE" {
 output "result" {
   value = module.PRVMODULE.value
 }
+
+
